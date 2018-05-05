@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LocateMe</string>
+    <string name="app_name">CheckOnMe</string>
     <string name="permissions_required">Permissions Required</string>
     <string name="GPS_SMS_required">GPS and SMS are a must permissions, without them the app will crash</string>
     <string name="read_favorite_contacts">Read favorite contacts</string>

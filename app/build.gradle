@@ -14,8 +14,8 @@ android {
         applicationId "oryx.kortex.locateme"
         minSdkVersion 23
         targetSdkVersion 27
-        versionCode 13
-        versionName "2.0.20180505"
+        versionCode 14
+        versionName "2.1.20180505"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
         lintOptions {
