@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "749919695529",
+    "firebase_url": "https://locateme-2.firebaseio.com",
+    "project_id": "locateme-2",
+    "storage_bucket": "locateme-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749919695529:android:13fd1efc5f5a2dc2",
+        "android_client_info": {
+          "package_name": "oryx.kortex.locateme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749919695529-lefebur58mrqhm5akbaviniec3oblg86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "oryx.kortex.locateme",
+            "certificate_hash": "2862fbd6168443020beddaf6618e404d18623b42"
+          }
+        },
+        {
+          "client_id": "749919695529-7eefjncl0oadv6c3vimfp21lt0rnqmfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "oryx.kortex.locateme",
+            "certificate_hash": "4f2061c580c49e3f765e36093e79ec6184e61a94"
+          }
+        },
+        {
+          "client_id": "749919695529-0g3fdf87rhgq6loq0ru281elaieqjgqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Fi2jwi8MfiobJbZvIqvOUUFuJea1Ru8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749919695529-0g3fdf87rhgq6loq0ru281elaieqjgqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

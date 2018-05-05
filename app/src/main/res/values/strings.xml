@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">LocateMe</string>
+    <string name="permissions_required">Permissions Required</string>
+    <string name="GPS_SMS_required">GPS and SMS are a must permissions, without them the app will crash</string>
+    <string name="read_favorite_contacts">Read favorite contacts</string>
+    <string name="gps_sms_granted">Thanks for grating main permissions</string>
+    <string name="start">START</string>
+    <string name="ok">OK</string>
+
+    <string name="Activate">Enable the app in the background</string>
+    <string name="Active">LocateMe is ACTIVE</string>
+    <string name="NotActive">LocateMe is not active</string>
+
+    <string name="Default_wru">Respond to default \"Where are you\" keyword</string>
+    <string name="Secret_wru">Respond to my own Secret keyword</string>
+    <string name="empty_wru">Empty secret word</string>
+    <string name="Invalid_wru">Your secret wod is not accepted, you entered nothing, pls recheck</string>
+    <string name="Retry">Retry</string>
+
+    <string name="Urgency">Make notification if received SMS contains the word \"Urgent\".</string>
+    <string name="urgncy_recieved_title">URGENCY SMS received".</string>
+    <string name="urgncy_recieved_body">You received an SMS containing a word of urgency</string>
+
+    <string name="Unmute">Unmute and ring the mobile when receiving SMS contains special word</string>
+    <string name="unmuted">Hello!, you had been unmuted</string>
+
+    <string name="Call_Back">Call-Back mobile when receiving SMS contains special word</string>
+    <string name="Record">Record Telephonic calls \n(Calls are saved in Downloads)</string>
+    <string name="recording_title">Call Recording</string>
+    <string name="recording_body">Your call had been recorded, check it in the `Downloads` folder</string>
+
+
+</resources>
